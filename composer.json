@@ -1,0 +1,17 @@
+{
+    "name": "zeng\/unitfor",
+    "description": "direct to module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zxh",
+            "email": "56602677@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Zeng\\Unitfor\\": "src"
+        }
+    }
+}
